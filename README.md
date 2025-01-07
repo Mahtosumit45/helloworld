@@ -1,2 +1,9 @@
 # helloworld
-this is my helloworld program in java
+import java.util.*;
+import java.util.scanner;
+public class main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
